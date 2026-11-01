@@ -15,7 +15,7 @@ public class PruebaAudioVisual {
         contenidos[1] = new SerieDeTV("Game of Thrones", 60, "Fantasy", temporada1);
         contenidos[2] = new Documental("Cosmos", 45, "Science", "Astronomy",investigador1);
         contenidos[3] = new TikTokVideo("Novatos en Java",30,"Comedia","UPS ConectadosYT");
-        contenidos[4] = new Podcast("Tecnologia al dia",45,"Comunicacion","Google Podcast");
+        contenidos[4] = new Podcast("Tecnologia al dia",45,"Comunicacion","Google Podcast"); 
         
         // Mostrar los detalles de cada contenido audiovisual
         for (ContenidoAudiovisual contenido : contenidos) {
